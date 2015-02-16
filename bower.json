@@ -1,0 +1,19 @@
+{
+  "name": "BasicAngularSeed",
+  "version": "0.1.0",
+  "authors": [
+    "Abdel Raoof <olakara@gmail.com>"
+  ],
+  "description": "A Basic AngularJS seed project for testing stuff",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13"
+  }
+}
